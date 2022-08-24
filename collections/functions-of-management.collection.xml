@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Shishir Kant">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11194</md:content-id>
     <md:title>functions of management</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>955d6b73-8837-4d10-9911-4a92cabd50f2</md:uuid>
-<md:slug>functions-of-management</md:slug>
-</metadata>
+    <md:slug>functions-of-management</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>plan</md:title>
